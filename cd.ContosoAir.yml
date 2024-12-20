@@ -6,6 +6,7 @@
 trigger:
 - none
 
+
 resources:
  pipelines:
   - pipeline: buildContosoAir # identifier for the resource used in pipeline resource variables
